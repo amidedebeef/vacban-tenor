@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         VacBan - Tenor GIF Pro+
+// @name         VacBan - Tenor GIF
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  Tenor GIF Search with Favorites, Categories, Infinite Scroll and Hover Preview for VacBan.wtf
